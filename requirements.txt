@@ -83,7 +83,7 @@ PyAutoGUI==0.9.48
 pycoingecko==0.4.0
 pycparser==2.19
 PyGetWindow==0.0.8
-Pygments==2.4.2
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyMsgBox==1.0.7
 pyobjc==6.1
