@@ -55,7 +55,7 @@ jupyter-console==6.0.0
 jupyter-core==4.6.0
 lxml==4.4.2
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==7.2.0
 MouseInfo==0.1.2
 multidict==4.4.2
